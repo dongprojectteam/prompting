@@ -1,0 +1,4854 @@
+[
+  {
+    "content_id": "c001",
+    "title": "뜨거운 기억의 사건",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "따뜻함",
+      "자극적"
+    ],
+    "actors": [
+      "김태리",
+      "조정석"
+    ],
+    "director": "신원호",
+    "platform": "웨이브",
+    "release_year": 2019,
+    "tags": [
+      "직장",
+      "복수",
+      "여행"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c002",
+    "title": "뜨거운 범죄의 리포트",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "따뜻함",
+      "감성적"
+    ],
+    "actors": [
+      "남궁민",
+      "마동석"
+    ],
+    "director": "안길호",
+    "platform": "티빙",
+    "release_year": 2016,
+    "tags": [
+      "추리",
+      "우정",
+      "복수"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c003",
+    "title": "마지막 우정의 편지",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "감성적",
+      "따뜻함"
+    ],
+    "actors": [
+      "이도현",
+      "마동석"
+    ],
+    "director": "이응복",
+    "platform": "넷플릭스",
+    "release_year": 2020,
+    "tags": [
+      "직장",
+      "감정",
+      "여행"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c004",
+    "title": "나의 복수의 일기",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "감성적",
+      "편안함"
+    ],
+    "actors": [
+      "정해인",
+      "이도현"
+    ],
+    "director": "박찬욱",
+    "platform": "디즈니플러스",
+    "release_year": 2022,
+    "tags": [
+      "우정",
+      "사랑",
+      "한옥"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c005",
+    "title": "나의 감정의 시즌",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "긴장감",
+      "자극적"
+    ],
+    "actors": [
+      "전미도",
+      "조정석"
+    ],
+    "director": "박찬욱",
+    "platform": "티빙",
+    "release_year": 2024,
+    "tags": [
+      "학폭",
+      "한옥",
+      "사랑"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c006",
+    "title": "기묘한 우정의 연대기",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "따뜻함",
+      "긴장감"
+    ],
+    "actors": [
+      "전미도",
+      "마동석"
+    ],
+    "director": "박찬욱",
+    "platform": "웨이브",
+    "release_year": 2020,
+    "tags": [
+      "복수",
+      "감정",
+      "한옥"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c007",
+    "title": "조용한 의사생활의 보고서",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "긴장감",
+      "자극적"
+    ],
+    "actors": [
+      "김태리",
+      "조정석"
+    ],
+    "director": "이응복",
+    "platform": "왓챠",
+    "release_year": 2013,
+    "tags": [
+      "학폭",
+      "형사",
+      "직장"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c008",
+    "title": "은밀한 의사생활의 파일",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "감성적",
+      "편안함"
+    ],
+    "actors": [
+      "조정석",
+      "마동석"
+    ],
+    "director": "박찬욱",
+    "platform": "웨이브",
+    "release_year": 2019,
+    "tags": [
+      "한옥",
+      "우정",
+      "여행"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c009",
+    "title": "비밀의 감정의 파일",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "편안함",
+      "따뜻함"
+    ],
+    "actors": [
+      "송혜교",
+      "남궁민"
+    ],
+    "director": "이응복",
+    "platform": "디즈니플러스",
+    "release_year": 2015,
+    "tags": [
+      "한옥",
+      "사랑",
+      "직장"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c010",
+    "title": "조용한 여행의 리포트",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "자극적",
+      "긴장감"
+    ],
+    "actors": [
+      "이도현",
+      "남궁민"
+    ],
+    "director": "나영석",
+    "platform": "왓챠",
+    "release_year": 2024,
+    "tags": [
+      "사랑",
+      "직장",
+      "학폭"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c011",
+    "title": "뜨거운 복수의 파일",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "자극적",
+      "편안함"
+    ],
+    "actors": [
+      "마동석",
+      "정해인"
+    ],
+    "director": "이응복",
+    "platform": "넷플릭스",
+    "release_year": 2021,
+    "tags": [
+      "한옥",
+      "추리",
+      "우정"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c012",
+    "title": "마지막 기억의 연대기",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "편안함",
+      "감성적"
+    ],
+    "actors": [
+      "김태리",
+      "송혜교"
+    ],
+    "director": "박찬욱",
+    "platform": "왓챠",
+    "release_year": 2017,
+    "tags": [
+      "우정",
+      "감정",
+      "직장"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c013",
+    "title": "조용한 범죄의 극장판",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "긴장감",
+      "편안함"
+    ],
+    "actors": [
+      "남궁민",
+      "정해인"
+    ],
+    "director": "신원호",
+    "platform": "티빙",
+    "release_year": 2010,
+    "tags": [
+      "사랑",
+      "직장",
+      "추리"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c014",
+    "title": "마지막 복수의 시",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "따뜻함",
+      "감성적"
+    ],
+    "actors": [
+      "전미도",
+      "마동석"
+    ],
+    "director": "이응복",
+    "platform": "왓챠",
+    "release_year": 2016,
+    "tags": [
+      "형사",
+      "우정",
+      "복수"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c015",
+    "title": "하루의 기억의 시",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "편안함",
+      "따뜻함"
+    ],
+    "actors": [
+      "전미도",
+      "조정석"
+    ],
+    "director": "박찬욱",
+    "platform": "넷플릭스",
+    "release_year": 2023,
+    "tags": [
+      "사랑",
+      "여행",
+      "형사"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c016",
+    "title": "조용한 계획의 극장판",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "감성적",
+      "긴장감"
+    ],
+    "actors": [
+      "조정석",
+      "정해인"
+    ],
+    "director": "나영석",
+    "platform": "왓챠",
+    "release_year": 2013,
+    "tags": [
+      "형사",
+      "한옥",
+      "감정"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c017",
+    "title": "하루의 이야기의 편지",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "따뜻함",
+      "편안함"
+    ],
+    "actors": [
+      "송혜교",
+      "남궁민"
+    ],
+    "director": "신원호",
+    "platform": "왓챠",
+    "release_year": 2018,
+    "tags": [
+      "형사",
+      "추리",
+      "한옥"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c018",
+    "title": "나의 복수의 일기",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "자극적",
+      "감성적"
+    ],
+    "actors": [
+      "김태리",
+      "마동석"
+    ],
+    "director": "박찬욱",
+    "platform": "웨이브",
+    "release_year": 2016,
+    "tags": [
+      "복수",
+      "사랑",
+      "한옥"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c019",
+    "title": "비밀의 감정의 시즌",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "편안함",
+      "자극적"
+    ],
+    "actors": [
+      "김태리",
+      "마동석"
+    ],
+    "director": "안길호",
+    "platform": "티빙",
+    "release_year": 2017,
+    "tags": [
+      "사랑",
+      "우정",
+      "형사"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c020",
+    "title": "비밀의 범죄의 리포트",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "편안함",
+      "긴장감"
+    ],
+    "actors": [
+      "마동석",
+      "김태리"
+    ],
+    "director": "박찬욱",
+    "platform": "웨이브",
+    "release_year": 2018,
+    "tags": [
+      "형사",
+      "복수",
+      "감정"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c021",
+    "title": "조용한 우정의 시",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "따뜻함",
+      "편안함"
+    ],
+    "actors": [
+      "조정석",
+      "전미도"
+    ],
+    "director": "안길호",
+    "platform": "넷플릭스",
+    "release_year": 2019,
+    "tags": [
+      "형사",
+      "우정",
+      "추리"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c022",
+    "title": "조용한 이야기의 시",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "따뜻함",
+      "긴장감"
+    ],
+    "actors": [
+      "마동석",
+      "전미도"
+    ],
+    "director": "박찬욱",
+    "platform": "넷플릭스",
+    "release_year": 2010,
+    "tags": [
+      "감정",
+      "학폭",
+      "사랑"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c023",
+    "title": "은밀한 우정의 일기",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "감성적",
+      "따뜻함"
+    ],
+    "actors": [
+      "조정석",
+      "마동석"
+    ],
+    "director": "신원호",
+    "platform": "왓챠",
+    "release_year": 2010,
+    "tags": [
+      "한옥",
+      "추리",
+      "감정"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c024",
+    "title": "그날의 계획의 시즌",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "긴장감",
+      "편안함"
+    ],
+    "actors": [
+      "마동석",
+      "정해인"
+    ],
+    "director": "나영석",
+    "platform": "티빙",
+    "release_year": 2019,
+    "tags": [
+      "학폭",
+      "한옥",
+      "우정"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c025",
+    "title": "하루의 의사생활의 일기",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "자극적",
+      "긴장감"
+    ],
+    "actors": [
+      "남궁민",
+      "전미도"
+    ],
+    "director": "이응복",
+    "platform": "넷플릭스",
+    "release_year": 2021,
+    "tags": [
+      "학폭",
+      "추리",
+      "한옥"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c026",
+    "title": "우리들의 감정의 시",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "긴장감",
+      "감성적"
+    ],
+    "actors": [
+      "전미도",
+      "남궁민"
+    ],
+    "director": "박찬욱",
+    "platform": "디즈니플러스",
+    "release_year": 2022,
+    "tags": [
+      "우정",
+      "직장",
+      "한옥"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c027",
+    "title": "나의 우정의 일기",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "자극적",
+      "편안함"
+    ],
+    "actors": [
+      "전미도",
+      "조정석"
+    ],
+    "director": "박찬욱",
+    "platform": "왓챠",
+    "release_year": 2017,
+    "tags": [
+      "추리",
+      "우정",
+      "한옥"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c028",
+    "title": "우리들의 범죄의 시",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "자극적",
+      "긴장감"
+    ],
+    "actors": [
+      "마동석",
+      "송혜교"
+    ],
+    "director": "신원호",
+    "platform": "웨이브",
+    "release_year": 2023,
+    "tags": [
+      "여행",
+      "한옥",
+      "형사"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c029",
+    "title": "은밀한 사랑의 극장판",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "따뜻함",
+      "감성적"
+    ],
+    "actors": [
+      "이도현",
+      "조정석"
+    ],
+    "director": "안길호",
+    "platform": "티빙",
+    "release_year": 2014,
+    "tags": [
+      "직장",
+      "학폭",
+      "형사"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c030",
+    "title": "뜨거운 계획의 연대기",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "긴장감",
+      "편안함"
+    ],
+    "actors": [
+      "남궁민",
+      "송혜교"
+    ],
+    "director": "신원호",
+    "platform": "웨이브",
+    "release_year": 2022,
+    "tags": [
+      "형사",
+      "감정",
+      "우정"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c031",
+    "title": "기묘한 계획의 연대기",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "자극적",
+      "감성적"
+    ],
+    "actors": [
+      "마동석",
+      "조정석"
+    ],
+    "director": "나영석",
+    "platform": "디즈니플러스",
+    "release_year": 2012,
+    "tags": [
+      "감정",
+      "추리",
+      "학폭"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c032",
+    "title": "비밀의 범죄의 편지",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "따뜻함",
+      "감성적"
+    ],
+    "actors": [
+      "김태리",
+      "이도현"
+    ],
+    "director": "나영석",
+    "platform": "왓챠",
+    "release_year": 2018,
+    "tags": [
+      "여행",
+      "직장",
+      "복수"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c033",
+    "title": "기묘한 우정의 리포트",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "편안함",
+      "따뜻함"
+    ],
+    "actors": [
+      "전미도",
+      "송혜교"
+    ],
+    "director": "박찬욱",
+    "platform": "넷플릭스",
+    "release_year": 2024,
+    "tags": [
+      "복수",
+      "여행",
+      "직장"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c034",
+    "title": "뜨거운 범죄의 극장판",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "자극적",
+      "편안함"
+    ],
+    "actors": [
+      "정해인",
+      "김태리"
+    ],
+    "director": "박찬욱",
+    "platform": "디즈니플러스",
+    "release_year": 2012,
+    "tags": [
+      "형사",
+      "추리",
+      "한옥"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c035",
+    "title": "기묘한 우정의 시즌",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "편안함",
+      "자극적"
+    ],
+    "actors": [
+      "김태리",
+      "전미도"
+    ],
+    "director": "박찬욱",
+    "platform": "웨이브",
+    "release_year": 2024,
+    "tags": [
+      "직장",
+      "형사",
+      "한옥"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c036",
+    "title": "조용한 의사생활의 파일",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "편안함",
+      "감성적"
+    ],
+    "actors": [
+      "남궁민",
+      "송혜교"
+    ],
+    "director": "나영석",
+    "platform": "웨이브",
+    "release_year": 2013,
+    "tags": [
+      "사랑",
+      "학폭",
+      "직장"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c037",
+    "title": "조용한 복수의 시즌",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "따뜻함",
+      "편안함"
+    ],
+    "actors": [
+      "정해인",
+      "전미도"
+    ],
+    "director": "신원호",
+    "platform": "웨이브",
+    "release_year": 2012,
+    "tags": [
+      "감정",
+      "복수",
+      "추리"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c038",
+    "title": "마지막 복수의 극장판",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "긴장감",
+      "감성적"
+    ],
+    "actors": [
+      "마동석",
+      "정해인"
+    ],
+    "director": "박찬욱",
+    "platform": "디즈니플러스",
+    "release_year": 2012,
+    "tags": [
+      "여행",
+      "형사",
+      "감정"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c039",
+    "title": "마지막 우정의 일기",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "편안함",
+      "감성적"
+    ],
+    "actors": [
+      "조정석",
+      "마동석"
+    ],
+    "director": "이응복",
+    "platform": "왓챠",
+    "release_year": 2016,
+    "tags": [
+      "감정",
+      "여행",
+      "추리"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c040",
+    "title": "비밀의 이야기의 연대기",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "따뜻함",
+      "감성적"
+    ],
+    "actors": [
+      "조정석",
+      "마동석"
+    ],
+    "director": "이응복",
+    "platform": "티빙",
+    "release_year": 2010,
+    "tags": [
+      "형사",
+      "우정",
+      "복수"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c041",
+    "title": "조용한 감정의 리포트",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "감성적",
+      "자극적"
+    ],
+    "actors": [
+      "전미도",
+      "김태리"
+    ],
+    "director": "신원호",
+    "platform": "넷플릭스",
+    "release_year": 2022,
+    "tags": [
+      "우정",
+      "형사",
+      "여행"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c042",
+    "title": "기묘한 복수의 시즌",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "자극적",
+      "긴장감"
+    ],
+    "actors": [
+      "남궁민",
+      "이도현"
+    ],
+    "director": "이응복",
+    "platform": "왓챠",
+    "release_year": 2011,
+    "tags": [
+      "우정",
+      "한옥",
+      "감정"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c043",
+    "title": "마지막 범죄의 연대기",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "따뜻함",
+      "편안함"
+    ],
+    "actors": [
+      "이도현",
+      "정해인"
+    ],
+    "director": "이응복",
+    "platform": "티빙",
+    "release_year": 2019,
+    "tags": [
+      "형사",
+      "감정",
+      "학폭"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c044",
+    "title": "그날의 감정의 리포트",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "따뜻함",
+      "긴장감"
+    ],
+    "actors": [
+      "조정석",
+      "정해인"
+    ],
+    "director": "신원호",
+    "platform": "티빙",
+    "release_year": 2016,
+    "tags": [
+      "추리",
+      "한옥",
+      "학폭"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c045",
+    "title": "뜨거운 범죄의 보고서",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "편안함",
+      "감성적"
+    ],
+    "actors": [
+      "송혜교",
+      "마동석"
+    ],
+    "director": "안길호",
+    "platform": "디즈니플러스",
+    "release_year": 2021,
+    "tags": [
+      "사랑",
+      "학폭",
+      "직장"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c046",
+    "title": "마지막 여행의 파일",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "감성적",
+      "편안함"
+    ],
+    "actors": [
+      "이도현",
+      "송혜교"
+    ],
+    "director": "박찬욱",
+    "platform": "넷플릭스",
+    "release_year": 2015,
+    "tags": [
+      "여행",
+      "감정",
+      "학폭"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c047",
+    "title": "그날의 의사생활의 시즌",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "편안함",
+      "긴장감"
+    ],
+    "actors": [
+      "송혜교",
+      "김태리"
+    ],
+    "director": "나영석",
+    "platform": "티빙",
+    "release_year": 2011,
+    "tags": [
+      "우정",
+      "감정",
+      "한옥"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c048",
+    "title": "기묘한 이야기의 시",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "감성적",
+      "긴장감"
+    ],
+    "actors": [
+      "김태리",
+      "송혜교"
+    ],
+    "director": "이응복",
+    "platform": "왓챠",
+    "release_year": 2021,
+    "tags": [
+      "감정",
+      "한옥",
+      "추리"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c049",
+    "title": "은밀한 감정의 시즌",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "편안함",
+      "긴장감"
+    ],
+    "actors": [
+      "마동석",
+      "김태리"
+    ],
+    "director": "안길호",
+    "platform": "웨이브",
+    "release_year": 2016,
+    "tags": [
+      "사랑",
+      "추리",
+      "여행"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c050",
+    "title": "하루의 여행의 시즌",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "감성적",
+      "자극적"
+    ],
+    "actors": [
+      "조정석",
+      "마동석"
+    ],
+    "director": "안길호",
+    "platform": "티빙",
+    "release_year": 2023,
+    "tags": [
+      "감정",
+      "사랑",
+      "직장"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c051",
+    "title": "비밀의 범죄의 시",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "따뜻함",
+      "감성적"
+    ],
+    "actors": [
+      "마동석",
+      "정해인"
+    ],
+    "director": "박찬욱",
+    "platform": "웨이브",
+    "release_year": 2023,
+    "tags": [
+      "여행",
+      "형사",
+      "한옥"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c052",
+    "title": "비밀의 범죄의 보고서",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "감성적",
+      "긴장감"
+    ],
+    "actors": [
+      "마동석",
+      "이도현"
+    ],
+    "director": "신원호",
+    "platform": "넷플릭스",
+    "release_year": 2017,
+    "tags": [
+      "우정",
+      "학폭",
+      "한옥"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c053",
+    "title": "조용한 감정의 시즌",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "감성적",
+      "자극적"
+    ],
+    "actors": [
+      "조정석",
+      "김태리"
+    ],
+    "director": "신원호",
+    "platform": "넷플릭스",
+    "release_year": 2010,
+    "tags": [
+      "한옥",
+      "복수",
+      "직장"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c054",
+    "title": "조용한 기억의 보고서",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "따뜻함",
+      "감성적"
+    ],
+    "actors": [
+      "정해인",
+      "남궁민"
+    ],
+    "director": "나영석",
+    "platform": "넷플릭스",
+    "release_year": 2021,
+    "tags": [
+      "형사",
+      "한옥",
+      "학폭"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c055",
+    "title": "비밀의 사랑의 리포트",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "긴장감",
+      "편안함"
+    ],
+    "actors": [
+      "마동석",
+      "남궁민"
+    ],
+    "director": "이응복",
+    "platform": "넷플릭스",
+    "release_year": 2014,
+    "tags": [
+      "한옥",
+      "학폭",
+      "여행"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c056",
+    "title": "그날의 사랑의 보고서",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "긴장감",
+      "감성적"
+    ],
+    "actors": [
+      "전미도",
+      "정해인"
+    ],
+    "director": "박찬욱",
+    "platform": "왓챠",
+    "release_year": 2012,
+    "tags": [
+      "한옥",
+      "우정",
+      "직장"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c057",
+    "title": "하루의 우정의 파일",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "편안함",
+      "긴장감"
+    ],
+    "actors": [
+      "전미도",
+      "남궁민"
+    ],
+    "director": "이응복",
+    "platform": "넷플릭스",
+    "release_year": 2020,
+    "tags": [
+      "사랑",
+      "감정",
+      "학폭"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c058",
+    "title": "하루의 사랑의 사건",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "따뜻함",
+      "편안함"
+    ],
+    "actors": [
+      "조정석",
+      "정해인"
+    ],
+    "director": "이응복",
+    "platform": "티빙",
+    "release_year": 2016,
+    "tags": [
+      "직장",
+      "학폭",
+      "여행"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c059",
+    "title": "마지막 감정의 일기",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "긴장감",
+      "편안함"
+    ],
+    "actors": [
+      "남궁민",
+      "마동석"
+    ],
+    "director": "신원호",
+    "platform": "디즈니플러스",
+    "release_year": 2011,
+    "tags": [
+      "추리",
+      "학폭",
+      "우정"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c060",
+    "title": "우리들의 감정의 시즌",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "긴장감",
+      "감성적"
+    ],
+    "actors": [
+      "마동석",
+      "송혜교"
+    ],
+    "director": "이응복",
+    "platform": "넷플릭스",
+    "release_year": 2011,
+    "tags": [
+      "형사",
+      "우정",
+      "추리"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c061",
+    "title": "마지막 이야기의 리포트",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "편안함",
+      "감성적"
+    ],
+    "actors": [
+      "김태리",
+      "송혜교"
+    ],
+    "director": "박찬욱",
+    "platform": "왓챠",
+    "release_year": 2017,
+    "tags": [
+      "학폭",
+      "사랑",
+      "감정"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c062",
+    "title": "그날의 범죄의 리포트",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "긴장감",
+      "자극적"
+    ],
+    "actors": [
+      "송혜교",
+      "김태리"
+    ],
+    "director": "박찬욱",
+    "platform": "넷플릭스",
+    "release_year": 2024,
+    "tags": [
+      "학폭",
+      "여행",
+      "우정"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c063",
+    "title": "나의 사랑의 일기",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "편안함",
+      "긴장감"
+    ],
+    "actors": [
+      "조정석",
+      "남궁민"
+    ],
+    "director": "이응복",
+    "platform": "디즈니플러스",
+    "release_year": 2022,
+    "tags": [
+      "여행",
+      "학폭",
+      "한옥"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c064",
+    "title": "우리들의 계획의 사건",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "긴장감",
+      "자극적"
+    ],
+    "actors": [
+      "이도현",
+      "남궁민"
+    ],
+    "director": "이응복",
+    "platform": "왓챠",
+    "release_year": 2022,
+    "tags": [
+      "복수",
+      "사랑",
+      "학폭"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c065",
+    "title": "하루의 복수의 극장판",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "편안함",
+      "따뜻함"
+    ],
+    "actors": [
+      "마동석",
+      "전미도"
+    ],
+    "director": "안길호",
+    "platform": "티빙",
+    "release_year": 2016,
+    "tags": [
+      "우정",
+      "직장",
+      "여행"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c066",
+    "title": "우리들의 여행의 극장판",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "긴장감",
+      "자극적"
+    ],
+    "actors": [
+      "송혜교",
+      "이도현"
+    ],
+    "director": "나영석",
+    "platform": "티빙",
+    "release_year": 2022,
+    "tags": [
+      "추리",
+      "학폭",
+      "형사"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c067",
+    "title": "비밀의 복수의 편지",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "긴장감",
+      "따뜻함"
+    ],
+    "actors": [
+      "남궁민",
+      "마동석"
+    ],
+    "director": "신원호",
+    "platform": "넷플릭스",
+    "release_year": 2021,
+    "tags": [
+      "형사",
+      "학폭",
+      "추리"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c068",
+    "title": "하루의 복수의 보고서",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "감성적",
+      "자극적"
+    ],
+    "actors": [
+      "김태리",
+      "남궁민"
+    ],
+    "director": "박찬욱",
+    "platform": "디즈니플러스",
+    "release_year": 2014,
+    "tags": [
+      "여행",
+      "우정",
+      "감정"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c069",
+    "title": "은밀한 우정의 파일",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "긴장감",
+      "자극적"
+    ],
+    "actors": [
+      "송혜교",
+      "마동석"
+    ],
+    "director": "안길호",
+    "platform": "디즈니플러스",
+    "release_year": 2016,
+    "tags": [
+      "학폭",
+      "복수",
+      "형사"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c070",
+    "title": "비밀의 여행의 파일",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "감성적",
+      "따뜻함"
+    ],
+    "actors": [
+      "김태리",
+      "이도현"
+    ],
+    "director": "안길호",
+    "platform": "디즈니플러스",
+    "release_year": 2013,
+    "tags": [
+      "감정",
+      "우정",
+      "사랑"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c071",
+    "title": "은밀한 감정의 파일",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "편안함",
+      "자극적"
+    ],
+    "actors": [
+      "남궁민",
+      "조정석"
+    ],
+    "director": "이응복",
+    "platform": "디즈니플러스",
+    "release_year": 2015,
+    "tags": [
+      "추리",
+      "학폭",
+      "감정"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c072",
+    "title": "기묘한 감정의 파일",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "긴장감",
+      "감성적"
+    ],
+    "actors": [
+      "마동석",
+      "정해인"
+    ],
+    "director": "신원호",
+    "platform": "왓챠",
+    "release_year": 2022,
+    "tags": [
+      "추리",
+      "한옥",
+      "학폭"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c073",
+    "title": "비밀의 복수의 파일",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "자극적",
+      "따뜻함"
+    ],
+    "actors": [
+      "조정석",
+      "이도현"
+    ],
+    "director": "나영석",
+    "platform": "넷플릭스",
+    "release_year": 2013,
+    "tags": [
+      "한옥",
+      "추리",
+      "복수"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c074",
+    "title": "나의 범죄의 시즌",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "편안함",
+      "감성적"
+    ],
+    "actors": [
+      "남궁민",
+      "김태리"
+    ],
+    "director": "신원호",
+    "platform": "웨이브",
+    "release_year": 2014,
+    "tags": [
+      "여행",
+      "사랑",
+      "직장"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c075",
+    "title": "은밀한 기억의 연대기",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "자극적",
+      "감성적"
+    ],
+    "actors": [
+      "정해인",
+      "마동석"
+    ],
+    "director": "박찬욱",
+    "platform": "웨이브",
+    "release_year": 2020,
+    "tags": [
+      "한옥",
+      "직장",
+      "감정"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c076",
+    "title": "하루의 이야기의 보고서",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "따뜻함",
+      "편안함"
+    ],
+    "actors": [
+      "이도현",
+      "조정석"
+    ],
+    "director": "박찬욱",
+    "platform": "디즈니플러스",
+    "release_year": 2022,
+    "tags": [
+      "학폭",
+      "형사",
+      "감정"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c077",
+    "title": "나의 우정의 사건",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "감성적",
+      "편안함"
+    ],
+    "actors": [
+      "김태리",
+      "마동석"
+    ],
+    "director": "박찬욱",
+    "platform": "왓챠",
+    "release_year": 2014,
+    "tags": [
+      "학폭",
+      "사랑",
+      "형사"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c078",
+    "title": "은밀한 의사생활의 극장판",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "따뜻함",
+      "감성적"
+    ],
+    "actors": [
+      "송혜교",
+      "정해인"
+    ],
+    "director": "이응복",
+    "platform": "왓챠",
+    "release_year": 2019,
+    "tags": [
+      "감정",
+      "복수",
+      "직장"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c079",
+    "title": "뜨거운 감정의 일기",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "편안함",
+      "따뜻함"
+    ],
+    "actors": [
+      "김태리",
+      "마동석"
+    ],
+    "director": "박찬욱",
+    "platform": "티빙",
+    "release_year": 2018,
+    "tags": [
+      "한옥",
+      "우정",
+      "형사"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c080",
+    "title": "비밀의 이야기의 파일",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "자극적",
+      "긴장감"
+    ],
+    "actors": [
+      "남궁민",
+      "정해인"
+    ],
+    "director": "신원호",
+    "platform": "웨이브",
+    "release_year": 2020,
+    "tags": [
+      "학폭",
+      "복수",
+      "여행"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c081",
+    "title": "조용한 여행의 파일",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "따뜻함",
+      "긴장감"
+    ],
+    "actors": [
+      "김태리",
+      "남궁민"
+    ],
+    "director": "나영석",
+    "platform": "티빙",
+    "release_year": 2018,
+    "tags": [
+      "우정",
+      "감정",
+      "여행"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c082",
+    "title": "나의 의사생활의 보고서",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "자극적",
+      "긴장감"
+    ],
+    "actors": [
+      "조정석",
+      "김태리"
+    ],
+    "director": "나영석",
+    "platform": "왓챠",
+    "release_year": 2019,
+    "tags": [
+      "형사",
+      "사랑",
+      "우정"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c083",
+    "title": "그날의 감정의 연대기",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "자극적",
+      "편안함"
+    ],
+    "actors": [
+      "조정석",
+      "전미도"
+    ],
+    "director": "박찬욱",
+    "platform": "넷플릭스",
+    "release_year": 2011,
+    "tags": [
+      "학폭",
+      "한옥",
+      "직장"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c084",
+    "title": "조용한 여행의 리포트",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "편안함",
+      "자극적"
+    ],
+    "actors": [
+      "마동석",
+      "송혜교"
+    ],
+    "director": "이응복",
+    "platform": "웨이브",
+    "release_year": 2021,
+    "tags": [
+      "복수",
+      "학폭",
+      "우정"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c085",
+    "title": "우리들의 계획의 편지",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "감성적",
+      "편안함"
+    ],
+    "actors": [
+      "송혜교",
+      "전미도"
+    ],
+    "director": "이응복",
+    "platform": "넷플릭스",
+    "release_year": 2020,
+    "tags": [
+      "감정",
+      "추리",
+      "우정"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c086",
+    "title": "마지막 계획의 편지",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "자극적",
+      "감성적"
+    ],
+    "actors": [
+      "남궁민",
+      "송혜교"
+    ],
+    "director": "박찬욱",
+    "platform": "디즈니플러스",
+    "release_year": 2022,
+    "tags": [
+      "감정",
+      "사랑",
+      "여행"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c087",
+    "title": "그날의 복수의 편지",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "편안함",
+      "따뜻함"
+    ],
+    "actors": [
+      "전미도",
+      "남궁민"
+    ],
+    "director": "신원호",
+    "platform": "왓챠",
+    "release_year": 2020,
+    "tags": [
+      "감정",
+      "사랑",
+      "추리"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c088",
+    "title": "조용한 이야기의 리포트",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "따뜻함",
+      "편안함"
+    ],
+    "actors": [
+      "송혜교",
+      "김태리"
+    ],
+    "director": "신원호",
+    "platform": "티빙",
+    "release_year": 2013,
+    "tags": [
+      "직장",
+      "여행",
+      "복수"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c089",
+    "title": "하루의 복수의 연대기",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "긴장감",
+      "따뜻함"
+    ],
+    "actors": [
+      "이도현",
+      "남궁민"
+    ],
+    "director": "박찬욱",
+    "platform": "티빙",
+    "release_year": 2012,
+    "tags": [
+      "직장",
+      "학폭",
+      "복수"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c090",
+    "title": "우리들의 사랑의 시",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "감성적",
+      "긴장감"
+    ],
+    "actors": [
+      "정해인",
+      "마동석"
+    ],
+    "director": "신원호",
+    "platform": "왓챠",
+    "release_year": 2012,
+    "tags": [
+      "우정",
+      "감정",
+      "복수"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c091",
+    "title": "마지막 기억의 시즌",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "감성적",
+      "따뜻함"
+    ],
+    "actors": [
+      "송혜교",
+      "정해인"
+    ],
+    "director": "안길호",
+    "platform": "웨이브",
+    "release_year": 2020,
+    "tags": [
+      "사랑",
+      "여행",
+      "우정"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c092",
+    "title": "하루의 사랑의 연대기",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "따뜻함",
+      "긴장감"
+    ],
+    "actors": [
+      "김태리",
+      "송혜교"
+    ],
+    "director": "신원호",
+    "platform": "티빙",
+    "release_year": 2018,
+    "tags": [
+      "우정",
+      "형사",
+      "여행"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c093",
+    "title": "뜨거운 의사생활의 일기",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "긴장감",
+      "자극적"
+    ],
+    "actors": [
+      "조정석",
+      "전미도"
+    ],
+    "director": "이응복",
+    "platform": "왓챠",
+    "release_year": 2014,
+    "tags": [
+      "우정",
+      "추리",
+      "여행"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c094",
+    "title": "조용한 우정의 사건",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "편안함",
+      "긴장감"
+    ],
+    "actors": [
+      "이도현",
+      "마동석"
+    ],
+    "director": "안길호",
+    "platform": "디즈니플러스",
+    "release_year": 2021,
+    "tags": [
+      "한옥",
+      "직장",
+      "사랑"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c095",
+    "title": "은밀한 감정의 시즌",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "긴장감",
+      "따뜻함"
+    ],
+    "actors": [
+      "남궁민",
+      "마동석"
+    ],
+    "director": "박찬욱",
+    "platform": "넷플릭스",
+    "release_year": 2010,
+    "tags": [
+      "형사",
+      "학폭",
+      "우정"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c096",
+    "title": "은밀한 범죄의 극장판",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "편안함",
+      "따뜻함"
+    ],
+    "actors": [
+      "남궁민",
+      "이도현"
+    ],
+    "director": "나영석",
+    "platform": "디즈니플러스",
+    "release_year": 2012,
+    "tags": [
+      "학폭",
+      "복수",
+      "사랑"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c097",
+    "title": "비밀의 감정의 파일",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "편안함",
+      "따뜻함"
+    ],
+    "actors": [
+      "조정석",
+      "송혜교"
+    ],
+    "director": "신원호",
+    "platform": "티빙",
+    "release_year": 2021,
+    "tags": [
+      "여행",
+      "감정",
+      "형사"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c098",
+    "title": "나의 복수의 편지",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "따뜻함",
+      "편안함"
+    ],
+    "actors": [
+      "정해인",
+      "김태리"
+    ],
+    "director": "신원호",
+    "platform": "넷플릭스",
+    "release_year": 2019,
+    "tags": [
+      "직장",
+      "감정",
+      "사랑"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c099",
+    "title": "기묘한 의사생활의 편지",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "감성적",
+      "긴장감"
+    ],
+    "actors": [
+      "조정석",
+      "남궁민"
+    ],
+    "director": "이응복",
+    "platform": "디즈니플러스",
+    "release_year": 2012,
+    "tags": [
+      "형사",
+      "우정",
+      "학폭"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c100",
+    "title": "그날의 복수의 시",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "자극적",
+      "편안함"
+    ],
+    "actors": [
+      "송혜교",
+      "전미도"
+    ],
+    "director": "이응복",
+    "platform": "웨이브",
+    "release_year": 2019,
+    "tags": [
+      "복수",
+      "사랑",
+      "우정"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c101",
+    "title": "나의 기억의 일기",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "편안함",
+      "긴장감"
+    ],
+    "actors": [
+      "정해인",
+      "마동석"
+    ],
+    "director": "안길호",
+    "platform": "웨이브",
+    "release_year": 2018,
+    "tags": [
+      "여행",
+      "직장",
+      "사랑"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c102",
+    "title": "마지막 여행의 보고서",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "감성적",
+      "자극적"
+    ],
+    "actors": [
+      "전미도",
+      "남궁민"
+    ],
+    "director": "박찬욱",
+    "platform": "디즈니플러스",
+    "release_year": 2017,
+    "tags": [
+      "감정",
+      "직장",
+      "여행"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c103",
+    "title": "기묘한 우정의 보고서",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "긴장감",
+      "감성적"
+    ],
+    "actors": [
+      "김태리",
+      "조정석"
+    ],
+    "director": "안길호",
+    "platform": "왓챠",
+    "release_year": 2012,
+    "tags": [
+      "감정",
+      "사랑",
+      "여행"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c104",
+    "title": "비밀의 계획의 보고서",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "감성적",
+      "따뜻함"
+    ],
+    "actors": [
+      "정해인",
+      "남궁민"
+    ],
+    "director": "이응복",
+    "platform": "웨이브",
+    "release_year": 2017,
+    "tags": [
+      "복수",
+      "우정",
+      "추리"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c105",
+    "title": "그날의 기억의 일기",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "감성적",
+      "긴장감"
+    ],
+    "actors": [
+      "남궁민",
+      "마동석"
+    ],
+    "director": "이응복",
+    "platform": "티빙",
+    "release_year": 2010,
+    "tags": [
+      "복수",
+      "감정",
+      "여행"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c106",
+    "title": "마지막 복수의 일기",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "따뜻함",
+      "감성적"
+    ],
+    "actors": [
+      "이도현",
+      "조정석"
+    ],
+    "director": "이응복",
+    "platform": "왓챠",
+    "release_year": 2022,
+    "tags": [
+      "형사",
+      "여행",
+      "우정"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c107",
+    "title": "비밀의 여행의 시",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "따뜻함",
+      "긴장감"
+    ],
+    "actors": [
+      "전미도",
+      "조정석"
+    ],
+    "director": "나영석",
+    "platform": "티빙",
+    "release_year": 2021,
+    "tags": [
+      "우정",
+      "추리",
+      "여행"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c108",
+    "title": "조용한 범죄의 사건",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "긴장감",
+      "감성적"
+    ],
+    "actors": [
+      "전미도",
+      "정해인"
+    ],
+    "director": "이응복",
+    "platform": "왓챠",
+    "release_year": 2015,
+    "tags": [
+      "감정",
+      "복수",
+      "한옥"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c109",
+    "title": "마지막 의사생활의 연대기",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "따뜻함",
+      "감성적"
+    ],
+    "actors": [
+      "전미도",
+      "남궁민"
+    ],
+    "director": "나영석",
+    "platform": "디즈니플러스",
+    "release_year": 2012,
+    "tags": [
+      "직장",
+      "감정",
+      "우정"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c110",
+    "title": "조용한 복수의 극장판",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "감성적",
+      "자극적"
+    ],
+    "actors": [
+      "마동석",
+      "전미도"
+    ],
+    "director": "나영석",
+    "platform": "왓챠",
+    "release_year": 2017,
+    "tags": [
+      "추리",
+      "한옥",
+      "감정"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c111",
+    "title": "나의 기억의 일기",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "편안함",
+      "자극적"
+    ],
+    "actors": [
+      "전미도",
+      "조정석"
+    ],
+    "director": "나영석",
+    "platform": "넷플릭스",
+    "release_year": 2014,
+    "tags": [
+      "사랑",
+      "복수",
+      "학폭"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c112",
+    "title": "비밀의 여행의 파일",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "편안함",
+      "감성적"
+    ],
+    "actors": [
+      "김태리",
+      "송혜교"
+    ],
+    "director": "이응복",
+    "platform": "왓챠",
+    "release_year": 2013,
+    "tags": [
+      "형사",
+      "추리",
+      "사랑"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c113",
+    "title": "은밀한 이야기의 파일",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "자극적",
+      "긴장감"
+    ],
+    "actors": [
+      "정해인",
+      "마동석"
+    ],
+    "director": "박찬욱",
+    "platform": "왓챠",
+    "release_year": 2010,
+    "tags": [
+      "한옥",
+      "감정",
+      "직장"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c114",
+    "title": "조용한 복수의 리포트",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "편안함",
+      "긴장감"
+    ],
+    "actors": [
+      "전미도",
+      "마동석"
+    ],
+    "director": "신원호",
+    "platform": "티빙",
+    "release_year": 2017,
+    "tags": [
+      "한옥",
+      "복수",
+      "추리"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c115",
+    "title": "기묘한 이야기의 일기",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "자극적",
+      "편안함"
+    ],
+    "actors": [
+      "전미도",
+      "김태리"
+    ],
+    "director": "신원호",
+    "platform": "디즈니플러스",
+    "release_year": 2021,
+    "tags": [
+      "감정",
+      "복수",
+      "한옥"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c116",
+    "title": "마지막 계획의 시",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "긴장감",
+      "따뜻함"
+    ],
+    "actors": [
+      "마동석",
+      "전미도"
+    ],
+    "director": "이응복",
+    "platform": "티빙",
+    "release_year": 2016,
+    "tags": [
+      "학폭",
+      "복수",
+      "직장"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c117",
+    "title": "은밀한 범죄의 보고서",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "자극적",
+      "긴장감"
+    ],
+    "actors": [
+      "이도현",
+      "전미도"
+    ],
+    "director": "이응복",
+    "platform": "웨이브",
+    "release_year": 2020,
+    "tags": [
+      "우정",
+      "여행",
+      "사랑"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c118",
+    "title": "조용한 범죄의 시",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "자극적",
+      "긴장감"
+    ],
+    "actors": [
+      "정해인",
+      "전미도"
+    ],
+    "director": "신원호",
+    "platform": "디즈니플러스",
+    "release_year": 2011,
+    "tags": [
+      "추리",
+      "복수",
+      "감정"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c119",
+    "title": "마지막 범죄의 편지",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "감성적",
+      "편안함"
+    ],
+    "actors": [
+      "남궁민",
+      "송혜교"
+    ],
+    "director": "이응복",
+    "platform": "웨이브",
+    "release_year": 2014,
+    "tags": [
+      "형사",
+      "직장",
+      "추리"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c120",
+    "title": "나의 사랑의 리포트",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "감성적",
+      "따뜻함"
+    ],
+    "actors": [
+      "남궁민",
+      "김태리"
+    ],
+    "director": "나영석",
+    "platform": "웨이브",
+    "release_year": 2012,
+    "tags": [
+      "학폭",
+      "복수",
+      "직장"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c121",
+    "title": "조용한 우정의 연대기",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "긴장감",
+      "따뜻함"
+    ],
+    "actors": [
+      "이도현",
+      "정해인"
+    ],
+    "director": "이응복",
+    "platform": "디즈니플러스",
+    "release_year": 2021,
+    "tags": [
+      "여행",
+      "형사",
+      "복수"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c122",
+    "title": "비밀의 여행의 극장판",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "긴장감",
+      "편안함"
+    ],
+    "actors": [
+      "조정석",
+      "정해인"
+    ],
+    "director": "박찬욱",
+    "platform": "디즈니플러스",
+    "release_year": 2021,
+    "tags": [
+      "추리",
+      "직장",
+      "학폭"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c123",
+    "title": "기묘한 기억의 극장판",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "자극적",
+      "긴장감"
+    ],
+    "actors": [
+      "조정석",
+      "송혜교"
+    ],
+    "director": "박찬욱",
+    "platform": "웨이브",
+    "release_year": 2020,
+    "tags": [
+      "형사",
+      "여행",
+      "학폭"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c124",
+    "title": "하루의 이야기의 보고서",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "긴장감",
+      "감성적"
+    ],
+    "actors": [
+      "남궁민",
+      "송혜교"
+    ],
+    "director": "박찬욱",
+    "platform": "디즈니플러스",
+    "release_year": 2021,
+    "tags": [
+      "형사",
+      "감정",
+      "학폭"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c125",
+    "title": "비밀의 범죄의 편지",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "긴장감",
+      "따뜻함"
+    ],
+    "actors": [
+      "조정석",
+      "이도현"
+    ],
+    "director": "박찬욱",
+    "platform": "웨이브",
+    "release_year": 2019,
+    "tags": [
+      "직장",
+      "학폭",
+      "사랑"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c126",
+    "title": "마지막 이야기의 일기",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "긴장감",
+      "편안함"
+    ],
+    "actors": [
+      "남궁민",
+      "마동석"
+    ],
+    "director": "박찬욱",
+    "platform": "넷플릭스",
+    "release_year": 2015,
+    "tags": [
+      "감정",
+      "직장",
+      "여행"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c127",
+    "title": "나의 의사생활의 편지",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "자극적",
+      "감성적"
+    ],
+    "actors": [
+      "이도현",
+      "마동석"
+    ],
+    "director": "이응복",
+    "platform": "웨이브",
+    "release_year": 2021,
+    "tags": [
+      "한옥",
+      "형사",
+      "학폭"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c128",
+    "title": "그날의 의사생활의 리포트",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "편안함",
+      "자극적"
+    ],
+    "actors": [
+      "조정석",
+      "남궁민"
+    ],
+    "director": "안길호",
+    "platform": "넷플릭스",
+    "release_year": 2022,
+    "tags": [
+      "여행",
+      "추리",
+      "학폭"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c129",
+    "title": "그날의 여행의 연대기",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "따뜻함",
+      "편안함"
+    ],
+    "actors": [
+      "전미도",
+      "김태리"
+    ],
+    "director": "박찬욱",
+    "platform": "티빙",
+    "release_year": 2015,
+    "tags": [
+      "형사",
+      "추리",
+      "직장"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c130",
+    "title": "그날의 의사생활의 시즌",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "긴장감",
+      "감성적"
+    ],
+    "actors": [
+      "전미도",
+      "정해인"
+    ],
+    "director": "이응복",
+    "platform": "왓챠",
+    "release_year": 2011,
+    "tags": [
+      "우정",
+      "한옥",
+      "복수"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c131",
+    "title": "비밀의 기억의 시즌",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "편안함",
+      "따뜻함"
+    ],
+    "actors": [
+      "마동석",
+      "김태리"
+    ],
+    "director": "이응복",
+    "platform": "티빙",
+    "release_year": 2021,
+    "tags": [
+      "학폭",
+      "복수",
+      "사랑"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c132",
+    "title": "기묘한 이야기의 편지",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "자극적",
+      "감성적"
+    ],
+    "actors": [
+      "이도현",
+      "마동석"
+    ],
+    "director": "이응복",
+    "platform": "티빙",
+    "release_year": 2017,
+    "tags": [
+      "형사",
+      "사랑",
+      "감정"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c133",
+    "title": "기묘한 우정의 시즌",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "감성적",
+      "자극적"
+    ],
+    "actors": [
+      "조정석",
+      "송혜교"
+    ],
+    "director": "신원호",
+    "platform": "왓챠",
+    "release_year": 2010,
+    "tags": [
+      "우정",
+      "복수",
+      "추리"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c134",
+    "title": "그날의 여행의 리포트",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "따뜻함",
+      "긴장감"
+    ],
+    "actors": [
+      "남궁민",
+      "마동석"
+    ],
+    "director": "신원호",
+    "platform": "왓챠",
+    "release_year": 2020,
+    "tags": [
+      "형사",
+      "여행",
+      "직장"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c135",
+    "title": "뜨거운 의사생활의 연대기",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "따뜻함",
+      "긴장감"
+    ],
+    "actors": [
+      "정해인",
+      "남궁민"
+    ],
+    "director": "신원호",
+    "platform": "티빙",
+    "release_year": 2010,
+    "tags": [
+      "여행",
+      "형사",
+      "학폭"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c136",
+    "title": "우리들의 여행의 리포트",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "긴장감",
+      "자극적"
+    ],
+    "actors": [
+      "정해인",
+      "송혜교"
+    ],
+    "director": "신원호",
+    "platform": "티빙",
+    "release_year": 2024,
+    "tags": [
+      "추리",
+      "사랑",
+      "복수"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c137",
+    "title": "조용한 이야기의 시즌",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "따뜻함",
+      "자극적"
+    ],
+    "actors": [
+      "김태리",
+      "남궁민"
+    ],
+    "director": "이응복",
+    "platform": "넷플릭스",
+    "release_year": 2016,
+    "tags": [
+      "추리",
+      "여행",
+      "복수"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c138",
+    "title": "조용한 이야기의 시즌",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "따뜻함",
+      "긴장감"
+    ],
+    "actors": [
+      "마동석",
+      "남궁민"
+    ],
+    "director": "안길호",
+    "platform": "티빙",
+    "release_year": 2022,
+    "tags": [
+      "직장",
+      "복수",
+      "감정"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c139",
+    "title": "뜨거운 여행의 편지",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "따뜻함",
+      "자극적"
+    ],
+    "actors": [
+      "마동석",
+      "이도현"
+    ],
+    "director": "신원호",
+    "platform": "티빙",
+    "release_year": 2015,
+    "tags": [
+      "학폭",
+      "형사",
+      "감정"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c140",
+    "title": "마지막 범죄의 파일",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "자극적",
+      "편안함"
+    ],
+    "actors": [
+      "남궁민",
+      "마동석"
+    ],
+    "director": "안길호",
+    "platform": "티빙",
+    "release_year": 2024,
+    "tags": [
+      "학폭",
+      "직장",
+      "감정"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c141",
+    "title": "기묘한 이야기의 보고서",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "긴장감",
+      "따뜻함"
+    ],
+    "actors": [
+      "조정석",
+      "정해인"
+    ],
+    "director": "박찬욱",
+    "platform": "티빙",
+    "release_year": 2020,
+    "tags": [
+      "감정",
+      "형사",
+      "학폭"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c142",
+    "title": "은밀한 이야기의 편지",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "긴장감",
+      "자극적"
+    ],
+    "actors": [
+      "이도현",
+      "송혜교"
+    ],
+    "director": "이응복",
+    "platform": "웨이브",
+    "release_year": 2023,
+    "tags": [
+      "감정",
+      "우정",
+      "형사"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c143",
+    "title": "그날의 사랑의 리포트",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "자극적",
+      "긴장감"
+    ],
+    "actors": [
+      "이도현",
+      "마동석"
+    ],
+    "director": "나영석",
+    "platform": "티빙",
+    "release_year": 2017,
+    "tags": [
+      "사랑",
+      "직장",
+      "감정"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c144",
+    "title": "은밀한 계획의 시",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "편안함",
+      "자극적"
+    ],
+    "actors": [
+      "전미도",
+      "남궁민"
+    ],
+    "director": "신원호",
+    "platform": "넷플릭스",
+    "release_year": 2018,
+    "tags": [
+      "형사",
+      "우정",
+      "복수"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c145",
+    "title": "우리들의 복수의 일기",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "감성적",
+      "편안함"
+    ],
+    "actors": [
+      "남궁민",
+      "마동석"
+    ],
+    "director": "안길호",
+    "platform": "왓챠",
+    "release_year": 2015,
+    "tags": [
+      "사랑",
+      "감정",
+      "형사"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c146",
+    "title": "기묘한 감정의 편지",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "긴장감",
+      "편안함"
+    ],
+    "actors": [
+      "조정석",
+      "김태리"
+    ],
+    "director": "안길호",
+    "platform": "웨이브",
+    "release_year": 2012,
+    "tags": [
+      "형사",
+      "한옥",
+      "우정"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c147",
+    "title": "조용한 복수의 편지",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "편안함",
+      "따뜻함"
+    ],
+    "actors": [
+      "전미도",
+      "정해인"
+    ],
+    "director": "박찬욱",
+    "platform": "웨이브",
+    "release_year": 2011,
+    "tags": [
+      "직장",
+      "사랑",
+      "추리"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c148",
+    "title": "우리들의 기억의 리포트",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "자극적",
+      "따뜻함"
+    ],
+    "actors": [
+      "조정석",
+      "이도현"
+    ],
+    "director": "안길호",
+    "platform": "디즈니플러스",
+    "release_year": 2020,
+    "tags": [
+      "우정",
+      "감정",
+      "추리"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c149",
+    "title": "우리들의 여행의 편지",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "감성적",
+      "편안함"
+    ],
+    "actors": [
+      "정해인",
+      "남궁민"
+    ],
+    "director": "박찬욱",
+    "platform": "디즈니플러스",
+    "release_year": 2013,
+    "tags": [
+      "여행",
+      "감정",
+      "한옥"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c150",
+    "title": "마지막 복수의 사건",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "편안함",
+      "자극적"
+    ],
+    "actors": [
+      "마동석",
+      "조정석"
+    ],
+    "director": "이응복",
+    "platform": "넷플릭스",
+    "release_year": 2019,
+    "tags": [
+      "직장",
+      "한옥",
+      "여행"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c151",
+    "title": "그날의 우정의 편지",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "긴장감",
+      "감성적"
+    ],
+    "actors": [
+      "정해인",
+      "전미도"
+    ],
+    "director": "안길호",
+    "platform": "디즈니플러스",
+    "release_year": 2019,
+    "tags": [
+      "추리",
+      "감정",
+      "사랑"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c152",
+    "title": "뜨거운 사랑의 시즌",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "편안함",
+      "긴장감"
+    ],
+    "actors": [
+      "남궁민",
+      "송혜교"
+    ],
+    "director": "박찬욱",
+    "platform": "웨이브",
+    "release_year": 2023,
+    "tags": [
+      "복수",
+      "형사",
+      "학폭"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c153",
+    "title": "조용한 범죄의 시즌",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "감성적",
+      "자극적"
+    ],
+    "actors": [
+      "송혜교",
+      "김태리"
+    ],
+    "director": "박찬욱",
+    "platform": "티빙",
+    "release_year": 2018,
+    "tags": [
+      "추리",
+      "여행",
+      "학폭"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c154",
+    "title": "은밀한 여행의 극장판",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "편안함",
+      "자극적"
+    ],
+    "actors": [
+      "마동석",
+      "남궁민"
+    ],
+    "director": "이응복",
+    "platform": "디즈니플러스",
+    "release_year": 2020,
+    "tags": [
+      "우정",
+      "직장",
+      "추리"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c155",
+    "title": "은밀한 계획의 보고서",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "긴장감",
+      "편안함"
+    ],
+    "actors": [
+      "마동석",
+      "전미도"
+    ],
+    "director": "신원호",
+    "platform": "디즈니플러스",
+    "release_year": 2014,
+    "tags": [
+      "감정",
+      "직장",
+      "복수"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c156",
+    "title": "기묘한 여행의 시",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "자극적",
+      "감성적"
+    ],
+    "actors": [
+      "조정석",
+      "김태리"
+    ],
+    "director": "나영석",
+    "platform": "티빙",
+    "release_year": 2024,
+    "tags": [
+      "우정",
+      "추리",
+      "직장"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c157",
+    "title": "조용한 사랑의 편지",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "긴장감",
+      "감성적"
+    ],
+    "actors": [
+      "이도현",
+      "조정석"
+    ],
+    "director": "나영석",
+    "platform": "디즈니플러스",
+    "release_year": 2019,
+    "tags": [
+      "복수",
+      "직장",
+      "형사"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c158",
+    "title": "나의 감정의 리포트",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "편안함",
+      "감성적"
+    ],
+    "actors": [
+      "마동석",
+      "전미도"
+    ],
+    "director": "신원호",
+    "platform": "넷플릭스",
+    "release_year": 2018,
+    "tags": [
+      "추리",
+      "사랑",
+      "여행"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c159",
+    "title": "뜨거운 여행의 시",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "긴장감",
+      "따뜻함"
+    ],
+    "actors": [
+      "송혜교",
+      "김태리"
+    ],
+    "director": "안길호",
+    "platform": "디즈니플러스",
+    "release_year": 2011,
+    "tags": [
+      "감정",
+      "추리",
+      "사랑"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c160",
+    "title": "은밀한 여행의 파일",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "편안함",
+      "자극적"
+    ],
+    "actors": [
+      "마동석",
+      "송혜교"
+    ],
+    "director": "안길호",
+    "platform": "넷플릭스",
+    "release_year": 2015,
+    "tags": [
+      "형사",
+      "우정",
+      "사랑"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c161",
+    "title": "나의 복수의 일기",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "감성적",
+      "자극적"
+    ],
+    "actors": [
+      "남궁민",
+      "송혜교"
+    ],
+    "director": "이응복",
+    "platform": "티빙",
+    "release_year": 2024,
+    "tags": [
+      "한옥",
+      "여행",
+      "직장"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c162",
+    "title": "은밀한 기억의 리포트",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "편안함",
+      "자극적"
+    ],
+    "actors": [
+      "조정석",
+      "마동석"
+    ],
+    "director": "박찬욱",
+    "platform": "넷플릭스",
+    "release_year": 2019,
+    "tags": [
+      "직장",
+      "형사",
+      "우정"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c163",
+    "title": "하루의 계획의 보고서",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "감성적",
+      "따뜻함"
+    ],
+    "actors": [
+      "남궁민",
+      "마동석"
+    ],
+    "director": "박찬욱",
+    "platform": "디즈니플러스",
+    "release_year": 2015,
+    "tags": [
+      "우정",
+      "사랑",
+      "감정"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c164",
+    "title": "은밀한 의사생활의 시",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "자극적",
+      "따뜻함"
+    ],
+    "actors": [
+      "남궁민",
+      "이도현"
+    ],
+    "director": "이응복",
+    "platform": "웨이브",
+    "release_year": 2014,
+    "tags": [
+      "사랑",
+      "감정",
+      "학폭"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c165",
+    "title": "그날의 복수의 사건",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "따뜻함",
+      "감성적"
+    ],
+    "actors": [
+      "남궁민",
+      "김태리"
+    ],
+    "director": "이응복",
+    "platform": "티빙",
+    "release_year": 2023,
+    "tags": [
+      "여행",
+      "감정",
+      "복수"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c166",
+    "title": "비밀의 사랑의 일기",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "따뜻함",
+      "자극적"
+    ],
+    "actors": [
+      "마동석",
+      "전미도"
+    ],
+    "director": "신원호",
+    "platform": "왓챠",
+    "release_year": 2022,
+    "tags": [
+      "학폭",
+      "우정",
+      "감정"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c167",
+    "title": "은밀한 감정의 시",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "감성적",
+      "자극적"
+    ],
+    "actors": [
+      "조정석",
+      "이도현"
+    ],
+    "director": "신원호",
+    "platform": "티빙",
+    "release_year": 2020,
+    "tags": [
+      "한옥",
+      "형사",
+      "복수"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c168",
+    "title": "조용한 여행의 시",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "편안함",
+      "감성적"
+    ],
+    "actors": [
+      "송혜교",
+      "조정석"
+    ],
+    "director": "나영석",
+    "platform": "왓챠",
+    "release_year": 2015,
+    "tags": [
+      "감정",
+      "복수",
+      "여행"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c169",
+    "title": "마지막 감정의 사건",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "편안함",
+      "자극적"
+    ],
+    "actors": [
+      "정해인",
+      "전미도"
+    ],
+    "director": "박찬욱",
+    "platform": "티빙",
+    "release_year": 2015,
+    "tags": [
+      "사랑",
+      "우정",
+      "여행"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c170",
+    "title": "조용한 범죄의 극장판",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "감성적",
+      "따뜻함"
+    ],
+    "actors": [
+      "마동석",
+      "전미도"
+    ],
+    "director": "안길호",
+    "platform": "티빙",
+    "release_year": 2017,
+    "tags": [
+      "한옥",
+      "형사",
+      "여행"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c171",
+    "title": "조용한 기억의 파일",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "자극적",
+      "편안함"
+    ],
+    "actors": [
+      "송혜교",
+      "마동석"
+    ],
+    "director": "안길호",
+    "platform": "왓챠",
+    "release_year": 2012,
+    "tags": [
+      "한옥",
+      "우정",
+      "복수"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c172",
+    "title": "하루의 이야기의 시",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "편안함",
+      "자극적"
+    ],
+    "actors": [
+      "정해인",
+      "조정석"
+    ],
+    "director": "박찬욱",
+    "platform": "디즈니플러스",
+    "release_year": 2015,
+    "tags": [
+      "사랑",
+      "학폭",
+      "형사"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c173",
+    "title": "나의 우정의 시즌",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "편안함",
+      "긴장감"
+    ],
+    "actors": [
+      "김태리",
+      "이도현"
+    ],
+    "director": "박찬욱",
+    "platform": "웨이브",
+    "release_year": 2020,
+    "tags": [
+      "우정",
+      "한옥",
+      "감정"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c174",
+    "title": "비밀의 계획의 보고서",
+    "genre": [
+      "예능"
+    ],
+    "mood": [
+      "자극적",
+      "편안함"
+    ],
+    "actors": [
+      "송혜교",
+      "마동석"
+    ],
+    "director": "나영석",
+    "platform": "디즈니플러스",
+    "release_year": 2016,
+    "tags": [
+      "감정",
+      "형사",
+      "한옥"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c175",
+    "title": "마지막 사랑의 일기",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "감성적",
+      "긴장감"
+    ],
+    "actors": [
+      "조정석",
+      "마동석"
+    ],
+    "director": "이응복",
+    "platform": "티빙",
+    "release_year": 2022,
+    "tags": [
+      "학폭",
+      "여행",
+      "한옥"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c176",
+    "title": "비밀의 여행의 보고서",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "편안함",
+      "긴장감"
+    ],
+    "actors": [
+      "남궁민",
+      "정해인"
+    ],
+    "director": "박찬욱",
+    "platform": "티빙",
+    "release_year": 2022,
+    "tags": [
+      "형사",
+      "학폭",
+      "추리"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c177",
+    "title": "뜨거운 감정의 리포트",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "긴장감",
+      "감성적"
+    ],
+    "actors": [
+      "조정석",
+      "마동석"
+    ],
+    "director": "나영석",
+    "platform": "티빙",
+    "release_year": 2011,
+    "tags": [
+      "복수",
+      "형사",
+      "감정"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c178",
+    "title": "은밀한 범죄의 사건",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "따뜻함",
+      "감성적"
+    ],
+    "actors": [
+      "전미도",
+      "정해인"
+    ],
+    "director": "안길호",
+    "platform": "티빙",
+    "release_year": 2018,
+    "tags": [
+      "형사",
+      "우정",
+      "한옥"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c179",
+    "title": "비밀의 우정의 사건",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "긴장감",
+      "따뜻함"
+    ],
+    "actors": [
+      "정해인",
+      "전미도"
+    ],
+    "director": "안길호",
+    "platform": "왓챠",
+    "release_year": 2013,
+    "tags": [
+      "직장",
+      "우정",
+      "학폭"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c180",
+    "title": "기묘한 감정의 극장판",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "따뜻함",
+      "편안함"
+    ],
+    "actors": [
+      "남궁민",
+      "정해인"
+    ],
+    "director": "안길호",
+    "platform": "티빙",
+    "release_year": 2024,
+    "tags": [
+      "형사",
+      "우정",
+      "추리"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c181",
+    "title": "조용한 의사생활의 사건",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "긴장감",
+      "감성적"
+    ],
+    "actors": [
+      "송혜교",
+      "남궁민"
+    ],
+    "director": "신원호",
+    "platform": "디즈니플러스",
+    "release_year": 2017,
+    "tags": [
+      "여행",
+      "우정",
+      "추리"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c182",
+    "title": "그날의 의사생활의 극장판",
+    "genre": [
+      "드라마"
+    ],
+    "mood": [
+      "편안함",
+      "감성적"
+    ],
+    "actors": [
+      "전미도",
+      "조정석"
+    ],
+    "director": "신원호",
+    "platform": "넷플릭스",
+    "release_year": 2018,
+    "tags": [
+      "학폭",
+      "복수",
+      "형사"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c183",
+    "title": "마지막 범죄의 연대기",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "감성적",
+      "자극적"
+    ],
+    "actors": [
+      "마동석",
+      "이도현"
+    ],
+    "director": "나영석",
+    "platform": "티빙",
+    "release_year": 2022,
+    "tags": [
+      "추리",
+      "감정",
+      "사랑"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c184",
+    "title": "은밀한 감정의 편지",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "자극적",
+      "편안함"
+    ],
+    "actors": [
+      "남궁민",
+      "정해인"
+    ],
+    "director": "박찬욱",
+    "platform": "웨이브",
+    "release_year": 2014,
+    "tags": [
+      "학폭",
+      "여행",
+      "추리"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c185",
+    "title": "하루의 의사생활의 극장판",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "편안함",
+      "자극적"
+    ],
+    "actors": [
+      "마동석",
+      "조정석"
+    ],
+    "director": "나영석",
+    "platform": "왓챠",
+    "release_year": 2021,
+    "tags": [
+      "형사",
+      "직장",
+      "학폭"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c186",
+    "title": "나의 의사생활의 편지",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "편안함",
+      "따뜻함"
+    ],
+    "actors": [
+      "조정석",
+      "김태리"
+    ],
+    "director": "박찬욱",
+    "platform": "넷플릭스",
+    "release_year": 2019,
+    "tags": [
+      "추리",
+      "감정",
+      "복수"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c187",
+    "title": "뜨거운 감정의 사건",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "자극적",
+      "편안함"
+    ],
+    "actors": [
+      "송혜교",
+      "조정석"
+    ],
+    "director": "나영석",
+    "platform": "티빙",
+    "release_year": 2012,
+    "tags": [
+      "추리",
+      "감정",
+      "여행"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c188",
+    "title": "마지막 기억의 연대기",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "따뜻함",
+      "자극적"
+    ],
+    "actors": [
+      "정해인",
+      "전미도"
+    ],
+    "director": "이응복",
+    "platform": "왓챠",
+    "release_year": 2015,
+    "tags": [
+      "추리",
+      "감정",
+      "사랑"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c189",
+    "title": "우리들의 의사생활의 편지",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "편안함",
+      "긴장감"
+    ],
+    "actors": [
+      "김태리",
+      "남궁민"
+    ],
+    "director": "이응복",
+    "platform": "디즈니플러스",
+    "release_year": 2010,
+    "tags": [
+      "사랑",
+      "우정",
+      "복수"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c190",
+    "title": "뜨거운 의사생활의 파일",
+    "genre": [
+      "스릴러"
+    ],
+    "mood": [
+      "따뜻함",
+      "감성적"
+    ],
+    "actors": [
+      "마동석",
+      "남궁민"
+    ],
+    "director": "나영석",
+    "platform": "웨이브",
+    "release_year": 2010,
+    "tags": [
+      "학폭",
+      "여행",
+      "사랑"
+    ],
+    "duration_min": 100
+  },
+  {
+    "content_id": "c191",
+    "title": "나의 이야기의 극장판",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "자극적",
+      "편안함"
+    ],
+    "actors": [
+      "송혜교",
+      "정해인"
+    ],
+    "director": "신원호",
+    "platform": "티빙",
+    "release_year": 2020,
+    "tags": [
+      "직장",
+      "한옥",
+      "사랑"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c192",
+    "title": "우리들의 우정의 리포트",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "편안함",
+      "따뜻함"
+    ],
+    "actors": [
+      "남궁민",
+      "마동석"
+    ],
+    "director": "신원호",
+    "platform": "티빙",
+    "release_year": 2013,
+    "tags": [
+      "학폭",
+      "사랑",
+      "추리"
+    ],
+    "duration_min": 90
+  },
+  {
+    "content_id": "c193",
+    "title": "비밀의 계획의 시",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "감성적",
+      "따뜻함"
+    ],
+    "actors": [
+      "김태리",
+      "정해인"
+    ],
+    "director": "박찬욱",
+    "platform": "디즈니플러스",
+    "release_year": 2013,
+    "tags": [
+      "감정",
+      "복수",
+      "직장"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c194",
+    "title": "우리들의 범죄의 일기",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "따뜻함",
+      "긴장감"
+    ],
+    "actors": [
+      "조정석",
+      "전미도"
+    ],
+    "director": "안길호",
+    "platform": "디즈니플러스",
+    "release_year": 2013,
+    "tags": [
+      "추리",
+      "여행",
+      "형사"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c195",
+    "title": "하루의 기억의 시즌",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "편안함",
+      "따뜻함"
+    ],
+    "actors": [
+      "마동석",
+      "송혜교"
+    ],
+    "director": "나영석",
+    "platform": "넷플릭스",
+    "release_year": 2015,
+    "tags": [
+      "추리",
+      "학폭",
+      "여행"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c196",
+    "title": "하루의 감정의 사건",
+    "genre": [
+      "힐링",
+      "예능"
+    ],
+    "mood": [
+      "자극적",
+      "따뜻함"
+    ],
+    "actors": [
+      "조정석",
+      "남궁민"
+    ],
+    "director": "나영석",
+    "platform": "티빙",
+    "release_year": 2012,
+    "tags": [
+      "형사",
+      "여행",
+      "복수"
+    ],
+    "duration_min": 120
+  },
+  {
+    "content_id": "c197",
+    "title": "우리들의 사랑의 파일",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "따뜻함",
+      "긴장감"
+    ],
+    "actors": [
+      "김태리",
+      "이도현"
+    ],
+    "director": "이응복",
+    "platform": "왓챠",
+    "release_year": 2019,
+    "tags": [
+      "추리",
+      "학폭",
+      "복수"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c198",
+    "title": "은밀한 감정의 리포트",
+    "genre": [
+      "액션"
+    ],
+    "mood": [
+      "자극적",
+      "긴장감"
+    ],
+    "actors": [
+      "마동석",
+      "정해인"
+    ],
+    "director": "안길호",
+    "platform": "넷플릭스",
+    "release_year": 2016,
+    "tags": [
+      "감정",
+      "여행",
+      "한옥"
+    ],
+    "duration_min": 60
+  },
+  {
+    "content_id": "c199",
+    "title": "나의 복수의 시",
+    "genre": [
+      "범죄",
+      "액션"
+    ],
+    "mood": [
+      "자극적",
+      "편안함"
+    ],
+    "actors": [
+      "전미도",
+      "조정석"
+    ],
+    "director": "박찬욱",
+    "platform": "디즈니플러스",
+    "release_year": 2024,
+    "tags": [
+      "감정",
+      "우정",
+      "형사"
+    ],
+    "duration_min": 70
+  },
+  {
+    "content_id": "c200",
+    "title": "그날의 기억의 파일",
+    "genre": [
+      "코미디"
+    ],
+    "mood": [
+      "따뜻함",
+      "감성적"
+    ],
+    "actors": [
+      "송혜교",
+      "조정석"
+    ],
+    "director": "안길호",
+    "platform": "티빙",
+    "release_year": 2014,
+    "tags": [
+      "형사",
+      "한옥",
+      "직장"
+    ],
+    "duration_min": 70
+  }
+]
