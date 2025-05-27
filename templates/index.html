@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VAC Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="debug-panel">
+            <h2>디버그 로그</h2>
+            <div id="debug-log" class="log-output">
+                </div>
+        </div>
+        <div class="chat-panel">
+            <h2>VAC Chatbot</h2>
+            <div id="chat-window" class="chat-output">
+                </div>
+            <div class="chat-input-area">
+                <input type="text" id="user-input" placeholder="메시지를 입력하세요...">
+                <button id="send-button">보내기</button>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
