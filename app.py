@@ -347,6 +347,6 @@ def chat():
     return jsonify({"response_html": response_html, "debug_log": debug_messages})
 
 if __name__ == "__main__":
-    # Ensure initial context is loaded when the app starts
     history, current_summary, turn_count = load_context_from_file(CONTEXT_FILE)
-    app.run(debug=DEBUG_MODE) # Set debug=True for development, False for production
+    # app.run(debug=DEBUG_MODE)
+    app.run(host='0.0.0.0', port=7777, debug=DEBUG_MODE)
